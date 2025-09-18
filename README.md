@@ -38,8 +38,3 @@ This project is an **interactive Power BI dashboard** that analyzes **Blinkit gr
 
 ---
 
-## 📬 Author
-
-**Lakshmi Roshini Kotha**  
-📧 [lakshmiroshinikotha@gmail.com](mailto:lakshmiroshinikotha@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/roshini-kotha) • [GitHub](https://github.com/lakshmiroshinikotha)
